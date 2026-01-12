@@ -115,7 +115,7 @@ Each folder contains:
 
 **Created by:** [Syed Hasnain](https://github.com/Syed8855)
 📧 Email: (mailto:iamsyedhasnain04@gmail.com)
-💼 Portfolio: *add your portfolio link if you have one*
+
 
 ---
 
